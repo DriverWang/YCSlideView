@@ -4,7 +4,7 @@
 
 用法： 
 
-- (instancetype)initWithFrame:(CGRect)frame WithViewControllers:(NSArray *)viewControllers;
+ — (instancetype)initWithFrame:(CGRect)frame WithViewControllers:(NSArray *)viewControllers;
 
 将 控制器与按钮Title以字典形式，并组成数组，并赋值
 
