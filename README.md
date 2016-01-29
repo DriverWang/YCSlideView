@@ -13,3 +13,5 @@
 然后 addsubview 
 
 感受吧
+
+![image](https://github.com/DriverWang/YCSlideView/blob/master/YCSlideViewDome.gif)
