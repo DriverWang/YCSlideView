@@ -110,6 +110,7 @@
 
         }
         
+        NSLog(@"123");
         [button addTarget:self action:@selector(tabButton:) forControlEvents:UIControlEventTouchUpInside];
         [view addSubview:button];
         
